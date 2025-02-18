@@ -6,7 +6,7 @@
     },
     {
         "source": "/image/bgm/:path*",
-        "destination": "http://lain.bgm.tv/:path*"
+        "destination": "https://lain.bgm.tv/:path*"
       }
   ]
 }
