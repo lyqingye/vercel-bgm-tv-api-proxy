@@ -3,6 +3,10 @@
     {
       "source": "/api/bgm/:path*",
       "destination": "https://api.bgm.tv/:path*"
-    }
+    },
+    {
+        "source": "/image/bgm/:path*",
+        "destination": "http://lain.bgm.tv/:path*"
+      }
   ]
 }
